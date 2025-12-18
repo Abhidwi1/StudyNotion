@@ -1,6 +1,6 @@
 # 📘 StudyNotion – Online Education Platform (MERN Stack) 
 ### 🔗 Live Website
-###[Visit Web](https://abhidwi1.github.io/StudyNotion/)
+### [WEB LINK](https://abhidwi1.github.io/StudyNotion/)
 
 <u> </u>
 
